@@ -1,3 +1,3 @@
-# mikslab4
+# mikslab3
 
-Neki zadaci koji sam ja radio za lab4
+Neki zadaci koji sam ja radio za lab 3
